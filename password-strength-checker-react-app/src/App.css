@@ -1,5 +1,5 @@
 body {
-  background-image: url('E:\Assignment- SDE3- Fullstack\password-strength-checker\src\assets\backgroud.jpg');
+  background-image: url('../assets/background.jpg');
   margin: 0;
   background-size: cover;
   background-position: center;
